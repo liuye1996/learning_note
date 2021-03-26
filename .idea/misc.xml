@@ -8,10 +8,11 @@
       <list>
         <option value="$PROJECT_DIR$/mySpringBootDemo/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/mybatis-3-master/pom.xml" />
+        <option value="$PROJECT_DIR$/多线程/concurrent-demo/concurrent/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_181" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8.0_181" project-jdk-type="JavaSDK" />
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />
   </component>
